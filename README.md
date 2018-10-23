@@ -7,6 +7,7 @@ Product Manager Roadmap for Devs/Testers
 * https://medium.com/@tworetzky/what-does-a-product-manager-do-205b40d82da3
 * https://medium.com/@tworetzky/the-product-manager-superpower-user-science-7296134ae5a4
 * https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10
+* https://medium.com/the-creative-founder/the-evolving-product-manager-role-6f288bbc3cda
 * https://www.productplan.com/key-responsibilites-of-product-managers/
 * https://www.productplan.com/strategies-prioritize-product-features/
 * https://www.productplan.com/product-manager-job-description/
