@@ -1,5 +1,5 @@
-# product-manager-roadmap
-Product Manager Roadmap for Devs/Testers
+# Product Manager Roadmap
+Product Manager Roadmap for Devs/Testers. I'm starting to do this as I document my own journey to becoming a Product Manager.
 
 ## Blog Articles
 * https://www.forbes.com/sites/laurencebradford/2017/01/30/8-tips-for-landing-your-first-product-manager-role
