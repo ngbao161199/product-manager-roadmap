@@ -12,6 +12,7 @@ Product Manager Roadmap for Devs/Testers. I'm starting to do this as I document 
 * https://www.productplan.com/strategies-prioritize-product-features/
 * https://www.productplan.com/product-manager-job-description/
 * http://assets.productplan.com/content/Product-Roadmap-Guide-by-ProductPlan.pdf
+* http://assets.productplan.com/content/career-guide-for-product-managers-by-productplan.pdf
 * https://a16z.files.wordpress.com/2014/08/good-product-manager.pdf
 
 ## Recommended Books
