@@ -20,6 +20,7 @@ Product Manager Roadmap for Devs/Testers. I'm starting to do this as I document 
 * Lean Startup
 * Four Steps to an Epiphany
 * Lean Analytics
+* [Produc Management Practice](https://www.amazon.com/Product-Management-Practice-Real-World-Connective/dp/1491982276/)
 
 **UI/UX-related**
 
