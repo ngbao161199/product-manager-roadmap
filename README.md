@@ -18,6 +18,7 @@ Product Manager Roadmap for Devs/Testers. I'm starting to do this as I document 
 * [ ] http://assets.productplan.com/content/career-guide-for-product-managers-by-productplan.pdf
 * [x] https://a16z.files.wordpress.com/2014/08/good-product-manager.pdf
 * [ ] https://blog.bolt.io/hardware-product-management-276fd77e944d
+* [ ] https://blog.bolt.io/one-of-the-most-powerful-tools-for-hardware-startups-writing-25cd261dbe0b
 
 ## Recommended Books
 **Business-related**
