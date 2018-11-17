@@ -27,6 +27,8 @@ Product Manager Roadmap for Devs/Testers. I'm starting to do this as I document 
 * [x] [Bolt's Product Requirements Template](https://docs.google.com/document/d/1eBaBOF2A3rIfXeqqjq4uFAxX2f85JqanJmq-72ptur0/edit) 
 
 ## Recommended Books
+[Here's a huge list of books on Amazon](https://amzn.to/2ONxSNX). I'll edit the list below to only those not included on the list.
+
 **Business-related**
 
 * [x] Lean Startup
