@@ -19,6 +19,9 @@ Product Manager Roadmap for Devs/Testers. I'm starting to do this as I document 
   * [x] https://www.productplan.com/how-product-managers-can-say-no/
   * [x] https://www.productplan.com/excitement-feature-examples
   * [x] https://www.productplan.com/traits-of-successful-product-designers
+  * [x] https://www.productplan.com/design-thinking/
+  * [x] https://www.productplan.com/product-design-principles/
+  * [x] https://www.productplan.com/videos/kano-model/
   * [ ] http://assets.productplan.com/content/Product-Roadmap-Guide-by-ProductPlan.pdf
   * [ ] http://assets.productplan.com/content/career-guide-for-product-managers-by-productplan.pdf
 * [x] https://a16z.files.wordpress.com/2014/08/good-product-manager.pdf
