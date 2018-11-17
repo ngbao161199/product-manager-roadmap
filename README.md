@@ -12,7 +12,7 @@ Product Manager Roadmap for Devs/Testers. I'm starting to do this as I document 
 * [x] https://productcoalition.com/the-art-of-the-strategic-product-roadmap-c881f261b4eb
 * [ ] Product Plan Blog Posts and Downloads
   * [x] https://www.productplan.com/key-responsibilites-of-product-managers/
-  * [ ] https://www.productplan.com/books-for-product-managers/
+  * [x] https://www.productplan.com/books-for-product-managers/
   * [x] https://www.productplan.com/strategies-prioritize-product-features/
   * [x] https://www.productplan.com/product-manager-job-description/
   * [x] https://www.productplan.com/product-culture-mistakes
