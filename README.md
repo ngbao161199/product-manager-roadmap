@@ -11,12 +11,16 @@ Product Manager Roadmap for Devs/Testers. I'm starting to do this as I document 
 * [ ] https://medium.com/the-creative-founder/the-evolving-product-manager-role-6f288bbc3cda
 * [x] https://productcoalition.com/the-art-of-the-strategic-product-roadmap-c881f261b4eb
 * Product Plan Blog Posts and Downloads
-** [x] https://www.productplan.com/key-responsibilites-of-product-managers/
-** [ ] https://www.productplan.com/books-for-product-managers/
-** [x] https://www.productplan.com/strategies-prioritize-product-features/
-** [x] https://www.productplan.com/product-manager-job-description/
-** [ ] http://assets.productplan.com/content/Product-Roadmap-Guide-by-ProductPlan.pdf
-** [ ] http://assets.productplan.com/content/career-guide-for-product-managers-by-productplan.pdf
+  * [x] https://www.productplan.com/key-responsibilites-of-product-managers/
+  * [ ] https://www.productplan.com/books-for-product-managers/
+  * [x] https://www.productplan.com/strategies-prioritize-product-features/
+  * [x] https://www.productplan.com/product-manager-job-description/
+  * [x] https://www.productplan.com/product-culture-mistakes
+  * [x] https://www.productplan.com/how-product-managers-can-say-no/
+  * [x] https://www.productplan.com/excitement-feature-examples
+  * [x] https://www.productplan.com/traits-of-successful-product-designers
+  * [ ] http://assets.productplan.com/content/Product-Roadmap-Guide-by-ProductPlan.pdf
+  * [ ] http://assets.productplan.com/content/career-guide-for-product-managers-by-productplan.pdf
 * [x] https://a16z.files.wordpress.com/2014/08/good-product-manager.pdf
 * [x] https://blog.bolt.io/hardware-product-management-276fd77e944d
 * [x] https://blog.bolt.io/one-of-the-most-powerful-tools-for-hardware-startups-writing-25cd261dbe0b
