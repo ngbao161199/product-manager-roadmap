@@ -30,13 +30,11 @@ Product Manager Roadmap for Devs/Testers. I'm starting to do this as I document 
 [Here's a huge list of books on Amazon](https://amzn.to/2ONxSNX). I'll edit the list below to only those not included on the list.
 
 **Business-related**
-
+* [ ] [🌟Lean Customer Development: Building Products Your Customers Will Buy](https://www.amazon.com/Lean-Customer-Development-Hardcover-version/dp/1449356354)
 * [x] Lean Startup
 * [x] Four Steps to an Epiphany
-* [ ] Lean Analytics
 * [ ] [Product Management Practice](https://www.amazon.com/Product-Management-Practice-Real-World-Connective/dp/1491982276/)
 * [ ] [The Messy Middle (specifically the parts devoted to product management)](https://www.amazon.com/Messy-Middle-Finding-Through-Hardest/dp/0735218072)
-* [ ] [Inspired: How To Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
 
 **UI/UX-related**
 * [ ] [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
