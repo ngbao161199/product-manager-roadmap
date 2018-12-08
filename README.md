@@ -10,6 +10,7 @@ Product Manager Roadmap for Devs/Testers. I'm starting to do this as I document 
 * [ ] https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10
 * [ ] https://medium.com/the-creative-founder/the-evolving-product-manager-role-6f288bbc3cda
 * [x] https://productcoalition.com/the-art-of-the-strategic-product-roadmap-c881f261b4eb
+* [ ] http://www.sachinrekhi.com/engaging-in-product-debates
 * [ ] (11/13) Product Plan Blog Posts and Downloads
   * [x] https://www.productplan.com/key-responsibilites-of-product-managers/
   * [x] https://www.productplan.com/books-for-product-managers/
@@ -22,6 +23,8 @@ Product Manager Roadmap for Devs/Testers. I'm starting to do this as I document 
   * [x] https://www.productplan.com/design-thinking/
   * [x] https://www.productplan.com/product-design-principles/
   * [x] https://www.productplan.com/videos/kano-model/
+  * [ ] https://www.productplan.com/better-product-roadmap-presentations
+  * [ ] https://www.productplan.com/agile-planning-onion
   * [ ] http://assets.productplan.com/content/Product-Roadmap-Guide-by-ProductPlan.pdf
   * [ ] http://assets.productplan.com/content/career-guide-for-product-managers-by-productplan.pdf
 * [x] https://a16z.files.wordpress.com/2014/08/good-product-manager.pdf
